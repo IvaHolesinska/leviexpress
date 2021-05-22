@@ -1,0 +1,16 @@
+import React from 'react';
+
+const Footer = () => {
+  return (
+    <footer>
+      <div className="container">
+        <div className="footer-title">LeviExpress</div>
+        <div className="copyright">
+          Czechitas Digitální akademie: Web, © 2021
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;
